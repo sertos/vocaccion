@@ -1,5 +1,5 @@
 // Reemplaza 'YOUR_CHATGPT_API_KEY' con tu clave de API de OpenAI
-const apiKey = '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';
+const apiKey = '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';
 const chatDisplay = document.getElementById('chat-display');
 const messageInput = document.getElementById('message-input');
 const downloadButton = document.getElementById('download-button');
